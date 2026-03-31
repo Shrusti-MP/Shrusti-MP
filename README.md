@@ -81,3 +81,7 @@ I enjoy building projects that solve real-world problems using technology.
 ---
 
 ⭐ *Thanks for visiting! Feel free to check out my repositories.*
+
+<p align="center">
+  <img src="https://github.com/Shrusti-MP/Shrusti-MP/blob/output/github-snake-dark.svg" />
+</p>
