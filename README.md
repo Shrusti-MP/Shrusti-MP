@@ -66,7 +66,11 @@ I love building projects that combine **software + hardware**, from web applicat
 - **B.Tech in CSE – Presidency University (2023–2027)**  
   CGPA: 9.21  
 
----
+
+
+<p align="center">
+  <img src="https://github.com/Shrusti-MP/Shrusti-MP/blob/output/github-snake-dark.svg" />
+</p> 
 
 ## 📫 Contact
 **Email:** sshrustimp@gmail.com  
@@ -81,7 +85,3 @@ I enjoy building projects that solve real-world problems using technology.
 ---
 
 ⭐ *Thanks for visiting! Feel free to check out my repositories.*
-
-<p align="center">
-  <img src="https://github.com/Shrusti-MP/Shrusti-MP/blob/output/github-snake-dark.svg" />
-</p>
